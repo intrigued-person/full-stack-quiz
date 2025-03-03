@@ -37,7 +37,6 @@ Key Highlights:
 - **Frontend**: React
 - **Database**: MySQL
 - **API**: RESTful Web Services
-- **Authentication**: JWT (JSON Web Token)
 - **Styling**: CSS, Bootstrap (for frontend styling)
 
 ---
@@ -121,10 +120,5 @@ npm start
 + Use the UI to register, log in, and interact with the app.
 + The Spring Boot server will be running on http://backend-production-2d2c.up.railway.app.
 
-🖼️ Screenshots
-
-Frontend UI:
-
-Backend API Structure:
 
 
